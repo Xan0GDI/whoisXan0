@@ -1,2 +1,4 @@
 # whoami
-Website about myself =)
+
+
+This website just includes some stuff abt me :D
